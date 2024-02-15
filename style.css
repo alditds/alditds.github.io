@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+    background-color: #d3e2ff;
+}
+
+.container-fluid h1 {
+    font-size: 4rem;
+    color: rgb(57, 57, 253);
+    padding: 3rem 0;
+}
+
+.container-fluid .btn {
+    background-color: rgb(57, 57, 253);
+    border-radius: 50px;
+    height: 50px;
+    color: white;
+}
+
+.container-fluid .btn:hover {
+    background-color: #d3e2ff;
+    color: rgb(57, 57, 253);
+    border: 1px solid rgb(57, 57, 253);
+}
+
+.container-fluid a {
+    text-decoration: none;
+    color: rgb(58, 58, 58);
+}
+
+.container-fluid .btn-akun-baru {
+    background-color: #d3e2ff;
+    color: rgb(57, 57, 253);
+    border: 1px solid rgb(57, 57, 253);
+}
+.container-fluid .btn-akun-baru:hover {
+    background-color: rgb(57, 57, 253);
+    color: white;
+}
